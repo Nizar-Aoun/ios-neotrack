@@ -2,7 +2,7 @@ class Env {
   static const String _environment =
       String.fromEnvironment('APP_ENV', defaultValue: 'dev');
   static const String _devBaseUrl = 'https://dev.track.neotrack.tn';
-  static const String _prodBaseUrl = '192.168.1.148';
+  static const String _prodBaseUrl = 'https://track.neos.tn';
   static bool get isProd => _environment.toLowerCase() == 'prod';
   static String get baseUrl => isProd ? _prodBaseUrl : _devBaseUrl;
   static String get apiUrl => '$baseUrl/api';
