@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1040651729001",
+    "project_id": "neotrack-91425",
+    "storage_bucket": "neotrack-91425.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040651729001:android:00cce34215f83a2bf0caf8",
+        "android_client_info": {
+          "package_name": "com.fds.neotrack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk2FxA0WvfLXcQl6v4FmuWwYxUQyu_NwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
